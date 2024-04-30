@@ -7,5 +7,5 @@ function checkEvenOrOdd(number) {
 }
 
 
-var inputNumber = 7;
+var inputNumber = 9;
 checkEvenOrOdd(inputNumber);
