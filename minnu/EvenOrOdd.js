@@ -6,4 +6,3 @@ if (num%2===0){
 } else {
     console.log(num+" is odd number");
 }
-// comment
